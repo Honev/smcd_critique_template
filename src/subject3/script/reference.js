@@ -4,6 +4,6 @@ const reference = [
     title: 'Download Page',
     year: 'DEMO',
     sourceTitle: '',
-    link: 'https://www.figma.com/proto/zIsssMv6NMifue7se48IzH/IDP-231?page-id=133%3A351&type=design&node-id=1438-6281&viewport=-197%2C2634%2C0.11&t=iY6zHAJtk0vxxwqO-1&scaling=scale-down&mode=design',
+    link: 'https://www.figma.com/proto/1aLP4DUzBy9OXeViJeLxbz/Game?page-id=0%3A1&type=design&node-id=1-14&viewport=574%2C482%2C0.12&t=1G2koto8jgivNuzJ-1&scaling=min-zoom&mode=design',
   },
 ];
