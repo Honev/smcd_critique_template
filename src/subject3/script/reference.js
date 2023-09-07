@@ -1,6 +1,6 @@
 const reference = [
   {
-    author: 'Download Page',
+    author: '',
     title: 'Download Page',
     year: '',
     sourceTitle: '',
