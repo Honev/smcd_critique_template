@@ -1,6 +1,6 @@
 const reference = [
   {
-    author: '',
+    author: '나 혼자만 지적재산권 마음대로 사용하기 DEMO',
     title: 'Download Page',
     year: '',
     sourceTitle: '',
